@@ -16,5 +16,10 @@ namespace Enriquez_GitHub_Calculator_Sample
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
